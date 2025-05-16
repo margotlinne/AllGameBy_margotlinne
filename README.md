@@ -4,6 +4,8 @@
 
 <img src="https://github.com/user-attachments/assets/8690920a-d58c-4347-919f-dc73b6ff62ae" width="15%">
 
+![fallcup play photo](https://github.com/user-attachments/assets/f514286d-95bd-4643-9b5d-dfe496973ea3)
+
 ### Introduction
 
 You are a cup, who's flying up  to the sky. Eat fruits and coffe for energy, but the rock that will lower your energy. Eventually, if your energy is zero then you'll fall.
@@ -17,6 +19,8 @@ You are a cup, who's flying up  to the sky. Eat fruits and coffe for energy, but
 ## 『Attack! Bug!』 (Jul 08, 2021)
 
 <img src="https://github.com/user-attachments/assets/b8991ab0-b6cf-4f0b-876c-92f9bc97cd17" width="15%">
+
+![attackbug play](https://github.com/user-attachments/assets/c5396470-8116-47ee-9436-5e09f6e836b5)
 
 ### Introduction
 
@@ -32,6 +36,8 @@ As a flower, you shoot harmful bugs with pesticide gun. They come from top, bott
 
 <img src="https://github.com/user-attachments/assets/979f9030-ea0e-42d9-b90b-7c7234336f9c" width="15%">
 
+![chased game photo](https://github.com/user-attachments/assets/3958ca86-ba9c-47ac-9352-3c29b7c5c0e4)
+
 ### Introduction
 
 Scary monster flower is chasing behind you. Run the long infinite tunnel, avoiding jelly monsters coming toward to you. !
@@ -45,6 +51,8 @@ Scary monster flower is chasing behind you. Run the long infinite tunnel, avoidi
 ## 『Mr Flower's Journey For Lost Seeds』 (Sep 02, 2021)
 
 <img src="https://github.com/user-attachments/assets/52ea0948-abf2-4455-8e99-96ef2a3125a9" width="15%">
+
+![journey play photo](https://github.com/user-attachments/assets/fd6d5342-c6d3-400d-9602-5359bbafc4cd)
 
 ### Introduction
 
@@ -60,6 +68,8 @@ You need to collect seeds that's spread away in the world. Each stages have seed
 
 <img src="https://github.com/user-attachments/assets/49f32e98-75a9-488e-8c6a-1510e7ff122e" width="15%">
 
+![flying bee play photo](https://github.com/user-attachments/assets/409cb88a-3f94-40bb-8513-fc3520815813)
+
 ### Introduction
 
 Draw the path for the bee to follow flying. Direct them to the flower to get the nectar and back to the hive safely. Don't make bees collide each other!
@@ -73,6 +83,8 @@ Draw the path for the bee to follow flying. Direct them to the flower to get the
 ## 『Falling Bugs』 (Oct 01, 2021)
 
 <img src="https://github.com/user-attachments/assets/8184d8e2-a142-4b1f-809b-9f75c76feb48" width="15%">
+
+![FALLING BUG GAMEPLAY](https://github.com/user-attachments/assets/4c6367c9-6471-4a40-ac60-0f65d948e744)
 
 ### Introduction
 
@@ -88,6 +100,8 @@ Bugs are following from the sky! This time you don't have pesticide gun, just av
 
 <img src="https://github.com/user-attachments/assets/11d0c587-07c8-4b76-93ba-9ca2a53bf0f7" width="15%">
 
+![STEP OR FALL GAMEPLAY](https://github.com/user-attachments/assets/69ca91e9-c76a-42e3-9868-3227e7005aac)
+
 ### Introduction
 
 Three types of platforms are spawning. Some are very slippery, some are very damp, some are normal. Don't fall, keep going up. 
@@ -101,6 +115,8 @@ Three types of platforms are spawning. Some are very slippery, some are very dam
 ## 『Korean Class』(May 14, 2022)
 
 <img src="https://github.com/user-attachments/assets/a5f68ad2-51e3-43d9-b728-44889351a332" width="15%">
+
+![korean class play photo](https://github.com/user-attachments/assets/10ba3692-be84-4daf-9afc-fac92eb60aad)
 
 ### Introduction
 
@@ -116,6 +132,8 @@ Let's see how you are good at Korean! First, we'll check about Korean alphabet. 
 
 <img src="https://github.com/user-attachments/assets/ef02c797-9dc9-4ef8-b45a-8756a8d4c5f8" width="15%">
 
+![cup up play photo](https://github.com/user-attachments/assets/9cf51e75-53d1-4c8f-9496-a1a6633d8e9b)
+
 ### Introduction
 
 That cup is back from 「FALLCUP」! This time he has purpose. Princess cup is out somewhere and lost, King cup is looking for her desperately. King promises to let you marry her if you find her. It's a chance to become a rich! Go high up to the cutlery world through cutlery obstacles.
@@ -129,6 +147,7 @@ That cup is back from 「FALLCUP」! This time he has purpose. Princess cup is o
 ## 『Serve The Burger』 (Apr 22, 2024)
 
 <img src="https://github.com/user-attachments/assets/6799cef1-3c97-4b2d-9214-4d90995c9d38" width="15%">
+
 
 ### Introduction
 
